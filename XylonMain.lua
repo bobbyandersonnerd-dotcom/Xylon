@@ -3,8 +3,8 @@
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))()
 
 local Window = redzlib:MakeWindow({
-    Title = "Kakah Hub | Brookhaven RP 🪐🏡 4.1",
-    SubTitle = "by Kakah and by The Darknesxz",
+    Title = "XYLON 🪐🏡 4.1",
+    SubTitle = "By @Syverra",
     SaveFolder = "testing Kakah Hub"
   })
 
@@ -70,9 +70,9 @@ local executorName = detectExecutor()
 
 local Paragraph = Tab1:AddParagraph({"Executor", executorName})
 
-local Section = Tab1:AddSection({"Hub Version 3.7"})
+local Section = Tab1:AddSection({"Xylon 3.7"})
 
-local Paragraph = Tab1:AddParagraph({"Creators", "Kakah and The Darknesxz"})
+local Paragraph = Tab1:AddParagraph({"Creators", "Syverra"})
 
 
   
